@@ -82,7 +82,7 @@ jobs:
           BUTLER_CREDENTIALS: ${{ secrets.BUTLER_API_KEY }}
           BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
           CHANNEL: HTML
-          ITCH_GAME: flyfire-designer
+          ITCH_GAME: ci-cd-lesson-03-02-2025
           ITCH_USER: vshirokun
           BRANCH: itch-io
           PACKAGE: build/WebGL
